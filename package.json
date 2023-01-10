@@ -1,6 +1,6 @@
 {
-  "name": "webrtc-card-dev",
-  "version": "1.1.9",
+  "name": "webrtc-card",
+  "version": "1.0.0",
   "description": "WebRTC Card for Home Assistant",
   "keywords": [
     "home-assistant",
