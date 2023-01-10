@@ -1,0 +1,11 @@
+resources:
+  - url: http://127.0.0.1:5000/webrtc-card.js
+    type: module
+views:
+  - cards:
+      - type: custom:webrtc-card
+        title: "Bell"
+        camera_image: "camera.bell"
+        tap_action:
+          action: navigate
+          navigation_path: /test
